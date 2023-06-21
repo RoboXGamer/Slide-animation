@@ -57,7 +57,7 @@ img {
 .text h1 {
   top: 100px; /* Change this to 0px when animating left to right */
   /* left: -100%; */
-  font-size: 6vw;
+  font-size: 5rem;
   position: absolute;
   color: white;
 }
